@@ -4,10 +4,7 @@
   The goal of this project was to estimate the price of 5000 diamonds achieving the smallest amount of error based on previous records of diamonds' prices.
   
 # Technologies 
-  - Python
-  - Pandas
-  - Scikit Learn
-  - Seaborn
+  - Python (Pandas, Scikit Learn, Seaborn)
   - Tableau
 
 # Steps
